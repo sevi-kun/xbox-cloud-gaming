@@ -5,4 +5,4 @@ Type=Application
 Terminal=false
 Exec=$HOME/.bin/xbox
 Name=Xbox Game Streaming (Beta)
-Icon=/usr/share/icons/xbox-app.png
+Icon=$HOME/.local/share/icons/xbox-app.png
