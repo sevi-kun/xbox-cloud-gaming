@@ -1,0 +1,1 @@
+/usr/bin/flatpak run com.microsoft.Edge --kiosk "https://www.xbox.com/play"
